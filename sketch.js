@@ -93,7 +93,7 @@ function draw() {
       trex.velocityY = -12;
       jump.play();
       
-      touches = [ ];
+      touches = [];
     }
   
     trex.velocityY = trex.velocityY + 0.8
