@@ -77,7 +77,7 @@ function setup() {
 
 function draw() {
   
-  background("plum");
+  background("lightyellow");
 
   text("Score: "+ score, width-80,60);
   text("Highest Score: "+ localStorage["HighestScore"], width-110, 30);
